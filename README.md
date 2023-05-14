@@ -59,9 +59,9 @@ vgg19모델은 사진을 여러개의 작은 부분으로 나누고 각 부분�
 ![화면 캡처 2023-05-06 202615](https://user-images.githubusercontent.com/102473586/236621301-58d4b19b-7e81-49c2-b2fd-f7b2edfe3d61.jpg)
 
 
-학습이 진행될수록 시각화에 나온 것과 같이 train loss는 1.5597에서 0.4785로, val loss는 1.2061에서 0.6592로 감소하였습니다.
+학습이 진행될수록 시각화에 나온 것과 같이 **train loss** 는 1.5597에서 **0.4785**로, **val loss**는 1.2061에서 **0.6592**로 감소하였습니다.
 
-train accuracy는 0.5534에서 0.8557로, val accuracy는 0.6380에서 0.7720으로 증가 하였음을 확인할 수 있습니다.   
+**train accuracy**는 0.5534에서 **0.8557**로, **val accuracy**는 0.6380에서 **0.7720**으로 증가하였음을 확인할 수 있습니다.   
 
 <img width="500" src="https://user-images.githubusercontent.com/102473586/236621203-c252d99c-659c-432e-b28c-5f0e45fe33f1.jpg">![236621311-5f40482e-157d-4ae2-8153-1243f2174b1b](https://github.com/yoon0309/Development_of_a_classification_model_for_analyzing_tomato_leaf_diseases/assets/102473586/ff33c944-3def-4482-8770-20738999c3a0)
 
